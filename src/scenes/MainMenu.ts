@@ -3,6 +3,7 @@ let abc = "Hello";
 const hi = ()=>{
     return "hi";
 }
+let hai = "yo";
 export class MainMenu extends Scene
 {
     background: GameObjects.Image;
