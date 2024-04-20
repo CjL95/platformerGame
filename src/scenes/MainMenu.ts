@@ -1,5 +1,8 @@
 import { Scene, GameObjects } from 'phaser';
-
+let abc = "Hello";
+const hi = ()=>{
+    return "hi";
+}
 export class MainMenu extends Scene
 {
     background: GameObjects.Image;
